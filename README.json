@@ -53,7 +53,7 @@
                 "last_commit": "2026-05-15T14:48:17Z",
                 "owner": "google",
                 "repo": "fonts",
-                "stars": 20075
+                "stars": 20077
               }
             },
             {
@@ -153,7 +153,7 @@
             "last_commit": "2026-05-14T12:46:54Z",
             "owner": "IBM",
             "repo": "plex",
-            "stars": 11365
+            "stars": 11368
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2024-08-10T04:57:15Z",
             "owner": "jpt",
             "repo": "barlow",
-            "stars": 814
+            "stars": 815
           }
         },
         {
@@ -232,7 +232,7 @@
             "last_commit": "2024-11-19T03:16:13Z",
             "owner": "rsms",
             "repo": "inter",
-            "stars": 19486
+            "stars": 19483
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2025-06-11T09:58:19Z",
             "owner": "evilmartians",
             "repo": "mono",
-            "stars": 2676
+            "stars": 2677
           }
         },
         {
@@ -271,7 +271,7 @@
             "last_commit": "2026-03-27T23:10:14Z",
             "owner": "githubnext",
             "repo": "monaspace",
-            "stars": 19172
+            "stars": 19178
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2021-11-04T21:24:49Z",
             "owner": "christiannaths",
             "repo": "redacted-font",
-            "stars": 5393
+            "stars": 5394
           }
         },
         {
@@ -320,7 +320,7 @@
             "last_commit": "2025-12-02T05:25:31Z",
             "owner": "coreyhu",
             "repo": "Urbanist",
-            "stars": 555
+            "stars": 556
           }
         },
         {
@@ -748,7 +748,7 @@
             "last_commit": "2026-04-15T02:03:04Z",
             "owner": "lipis",
             "repo": "flag-icons",
-            "stars": 12129
+            "stars": 12130
           }
         },
         {
@@ -849,7 +849,7 @@
             "last_commit": "2020-04-08T09:28:54Z",
             "owner": "somerandomdude",
             "repo": "Iconic",
-            "stars": 2347
+            "stars": 2348
           }
         },
         {
@@ -885,7 +885,7 @@
             "last_commit": "2026-05-15T03:14:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53301
+            "stars": 53309
           }
         },
         {
@@ -1048,7 +1048,7 @@
                 "last_commit": "2024-07-30T18:57:27Z",
                 "owner": "adobe-fonts",
                 "repo": "source-han-serif",
-                "stars": 9400
+                "stars": 9402
               }
             },
             {
@@ -1061,7 +1061,7 @@
                 "last_commit": "2025-10-28T14:26:26Z",
                 "owner": "adobe-fonts",
                 "repo": "source-sans",
-                "stars": 3693
+                "stars": 3692
               }
             },
             {
@@ -1074,7 +1074,7 @@
                 "last_commit": "2025-11-17T22:59:10Z",
                 "owner": "adobe-fonts",
                 "repo": "source-serif",
-                "stars": 2334
+                "stars": 2333
               }
             }
           ],
@@ -1086,7 +1086,7 @@
             "last_commit": "2024-07-30T18:57:27Z",
             "owner": "adobe-fonts",
             "repo": "source-han-serif",
-            "stars": 9400
+            "stars": 9402
           }
         },
         {
@@ -1099,7 +1099,7 @@
             "last_commit": "2023-06-27T20:52:31Z",
             "owner": "blobject",
             "repo": "agave",
-            "stars": 1004
+            "stars": 1005
           }
         },
         {
@@ -1122,7 +1122,7 @@
             "last_commit": "2020-09-19T17:07:57Z",
             "owner": "chrissimpkins",
             "repo": "codeface",
-            "stars": 6473
+            "stars": 6474
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2026-03-15T16:37:54Z",
             "owner": "belluzj",
             "repo": "fantasque-sans",
-            "stars": 7372
+            "stars": 7373
           }
         },
         {
@@ -1163,7 +1163,7 @@
             "last_commit": "2022-11-21T18:05:33Z",
             "owner": "source-foundry",
             "repo": "Hack",
-            "stars": 17241
+            "stars": 17240
           }
         },
         {
@@ -1212,7 +1212,7 @@
             "last_commit": "2025-08-05T21:13:43Z",
             "owner": "IdreesInc",
             "repo": "Miracode",
-            "stars": 1292
+            "stars": 1293
           }
         },
         {
@@ -1230,7 +1230,7 @@
             "last_commit": "2026-03-17T19:17:14Z",
             "owner": "ryanoasis",
             "repo": "nerd-fonts",
-            "stars": 63032
+            "stars": 63051
           }
         },
         {
@@ -1248,7 +1248,7 @@
             "last_commit": "2025-10-02T01:50:23Z",
             "owner": "arrowtype",
             "repo": "recursive",
-            "stars": 3782
+            "stars": 3785
           }
         },
         {
@@ -1280,7 +1280,7 @@
             "last_commit": "2025-03-06T03:26:32Z",
             "owner": "microsoft",
             "repo": "cascadia-code",
-            "stars": 27689
+            "stars": 27690
           }
         },
         {
@@ -1293,7 +1293,7 @@
             "last_commit": "2026-05-18T16:18:53Z",
             "owner": "tonsky",
             "repo": "FiraCode",
-            "stars": 81627
+            "stars": 81630
           }
         },
         {
@@ -1329,10 +1329,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-19T04:13:40Z",
+            "last_commit": "2026-05-20T00:20:36Z",
             "owner": "be5invis",
             "repo": "Iosevka",
-            "stars": 22259
+            "stars": 22262
           }
         },
         {
@@ -1342,7 +1342,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-19T05:47:27Z",
+            "last_commit": "2026-05-20T05:48:12Z",
             "owner": "SpaceTimee",
             "repo": "Fusion-JetBrainsMapleMono",
             "stars": 2053
@@ -1363,7 +1363,7 @@
             "last_commit": "2026-05-06T19:18:22Z",
             "owner": "mishamyrt",
             "repo": "Lilex",
-            "stars": 1571
+            "stars": 1573
           }
         },
         {
@@ -1423,7 +1423,7 @@
             "last_commit": "2024-08-14T09:31:51Z",
             "owner": "foliojs",
             "repo": "fontkit",
-            "stars": 1652
+            "stars": 1653
           }
         },
         {
@@ -1436,7 +1436,7 @@
             "last_commit": "2025-08-13T07:03:41Z",
             "owner": "ecomfe",
             "repo": "fontmin",
-            "stars": 6181
+            "stars": 6182
           }
         },
         {
@@ -1449,7 +1449,7 @@
             "last_commit": "2026-05-10T15:24:39Z",
             "owner": "fontsource",
             "repo": "fontsource",
-            "stars": 5924
+            "stars": 5926
           }
         },
         {
@@ -1462,7 +1462,7 @@
             "last_commit": "2020-07-27T15:59:40Z",
             "owner": "davatron5000",
             "repo": "Lettering.js",
-            "stars": 5346
+            "stars": 5345
           }
         },
         {
@@ -1485,7 +1485,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-08T18:53:04Z",
+            "last_commit": "2026-05-19T19:55:13Z",
             "owner": "opentypejs",
             "repo": "opentype.js",
             "stars": 4964
@@ -1546,7 +1546,7 @@
             "last_commit": "2024-01-04T09:27:53Z",
             "owner": "typekit",
             "repo": "webfontloader",
-            "stars": 9256
+            "stars": 9257
           }
         }
       ],
@@ -1654,7 +1654,7 @@
             "last_commit": "2026-05-06T19:43:53Z",
             "owner": "fontforge",
             "repo": "fontforge",
-            "stars": 7728
+            "stars": 7729
           }
         },
         {
@@ -1680,7 +1680,7 @@
             "last_commit": "2025-12-02T16:43:50Z",
             "owner": "trufont",
             "repo": "trufont",
-            "stars": 503
+            "stars": 502
           }
         }
       ],
@@ -1698,7 +1698,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T06:12:56.046Z",
+    "last_updated": "2026-05-20T06:13:31.273Z",
     "original_repository": "brabadu/awesome-fonts",
     "source_repository": "v1nvn/enhansome-fonts",
     "source_repository_description": null,
